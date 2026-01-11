@@ -42,4 +42,4 @@ This mini project demonstrates form creation, styling, and client-side validatio
 ---
 
 ## 👤 Author
-- Your Name
+- Sami
